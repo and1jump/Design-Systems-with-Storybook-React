@@ -1,0 +1,26 @@
+{
+  "files": {
+    "0.f8363fe9.iframe.bundle.js": "./0.f8363fe9.iframe.bundle.js",
+    "main.js": "./main.0c0e9bba.iframe.bundle.js",
+    "runtime~main.js": "./runtime~main.de14ff9c.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.9afa8ca0.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.9afa8ca0.iframe.bundle.js.map",
+    "4.1ba3585c.iframe.bundle.js": "./4.1ba3585c.iframe.bundle.js",
+    "4.1ba3585c.iframe.bundle.js.map": "./4.1ba3585c.iframe.bundle.js.map",
+    "5.f4609d99.iframe.bundle.js": "./5.f4609d99.iframe.bundle.js",
+    "6.6ad536f4.iframe.bundle.js": "./6.6ad536f4.iframe.bundle.js",
+    "6.6ad536f4.iframe.bundle.js.map": "./6.6ad536f4.iframe.bundle.js.map",
+    "7.e024365a.iframe.bundle.js": "./7.e024365a.iframe.bundle.js",
+    "4.1ba3585c.iframe.bundle.js.LICENSE.txt": "./4.1ba3585c.iframe.bundle.js.LICENSE.txt",
+    "6.6ad536f4.iframe.bundle.js.LICENSE.txt": "./6.6ad536f4.iframe.bundle.js.LICENSE.txt",
+    "iframe.html": "./iframe.html",
+    "static/media/access-account.bfe118ce.svg": "./static/media/access-account.bfe118ce.svg",
+    "static/media/mobile-login.9275b4b9.svg": "./static/media/mobile-login.9275b4b9.svg",
+    "vendors~main.9afa8ca0.iframe.bundle.js.LICENSE.txt": "./vendors~main.9afa8ca0.iframe.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.de14ff9c.iframe.bundle.js",
+    "vendors~main.9afa8ca0.iframe.bundle.js",
+    "main.0c0e9bba.iframe.bundle.js"
+  ]
+}
